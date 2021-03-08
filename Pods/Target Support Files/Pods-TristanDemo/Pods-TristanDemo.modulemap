@@ -1,0 +1,6 @@
+framework module Pods_TristanDemo {
+  umbrella header "Pods-TristanDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
